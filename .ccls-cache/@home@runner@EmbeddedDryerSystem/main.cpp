@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdlib.h>
 
 int getNum(){
   int x{}; 
@@ -14,6 +15,6 @@ int getNum(){
   return x;
 }
 
-int main() {
-  getNum();
+int main() { 
+  getNum(); 
 }
