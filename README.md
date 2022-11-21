@@ -6,18 +6,20 @@ An embedded system is a computer system that has a dedicated function within a l
 * Timer
 #### Auto Dry (Regular Fabrics):
 * Blower
+* Timer
 * Heating Element
 * Thermostat
 * Moisture Sensor
 #### Auto Dry (Press Care):
 * Blower
+* Timer
 * Heating Element
 * Thermostat
 * Moisture Sensor
 #### Timed Dry:
 * Blower
-* Heating Element
 * Timer
+* Heating Element
 #### Cool Down:
 * Blower
 * Timer
