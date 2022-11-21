@@ -27,7 +27,7 @@ An embedded system is a computer system that has a dedicated function within a l
 * Reliable electrical power must be supplied.<br>
 * Dryer door must be closed prior to operation.<br>
 * Proper dryer vent must be fitted.<br><br>
-![Alt text](Maytag.jpg)
+![Alt text](Maytag.jpg "1980's Maytag Dryer")
 ###### Please note this system is for eductational use only, not to be used for any commercial or professional application. Copyright 2022 Tanner Ellingson.
 
 
