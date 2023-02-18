@@ -11,7 +11,6 @@ Timed Dry: Blower, Timer, Heating Element
 Cool Down: Blower, Timer
 
 **CYCLE COMPONENTS**
-
 Timer: tracks time
 Blower: on/off
 Heating Element: on/off
