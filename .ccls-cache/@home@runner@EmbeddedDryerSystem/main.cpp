@@ -16,7 +16,6 @@ Blower: on/off
 Heating Element: on/off
 Moisture Sensor: output signal
 Thermostat: output signal
-
 */
 
 int getNum(){
@@ -33,6 +32,9 @@ int getNum(){
   return x;
 }
 
-int main() { 
+int main() {
+
+
+  
   getNum(); 
 }
