@@ -24,6 +24,9 @@ int getNum(){
   std::cin >> x; 
   
   while (x < 10){
+
+
+    
     std::cout << "Invalid entry! Try again: ";
     std::cin >> x; 
   }
