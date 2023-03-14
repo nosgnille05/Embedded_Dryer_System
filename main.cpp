@@ -20,6 +20,10 @@ Thermostat: output signal
 
 int getNum(){
   int x{}; 
+
+
+
+  
   std::cout << "Enter a number greater than 10: "; 
   std::cin >> x; 
   
