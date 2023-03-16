@@ -24,7 +24,6 @@ int getNum(){
 
 
 
-  
   std::cin >> x; 
   
   while (x < 10){
