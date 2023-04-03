@@ -17,7 +17,6 @@ Heating Element: on/off
 Moisture Sensor: output signal
 Thermostat: output signal
 
-
 */
 
 int getNum(){
