@@ -31,7 +31,6 @@ int getNum(){
 
 
 
-  
   return x;
 }
 
