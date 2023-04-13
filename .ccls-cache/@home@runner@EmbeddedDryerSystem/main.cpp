@@ -28,7 +28,6 @@ int getNum(){
     std::cin >> x; 
   }
   std::cout << "Success! Your number is: " << x; 
-
   return x;
 }
 
