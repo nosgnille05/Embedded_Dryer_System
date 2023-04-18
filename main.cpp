@@ -23,7 +23,6 @@ int getNum(){
   std::cout << "Enter a number greater than 10: "; 
 
 
-  
   std::cin >> x; 
   
   while (x < 10){
