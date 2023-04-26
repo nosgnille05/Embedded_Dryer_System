@@ -30,7 +30,6 @@ int getNum(){
   std::cout << "Success! Your number is: " << x;
 
 
-  
   return x;
 }
 
