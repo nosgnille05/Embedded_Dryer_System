@@ -14,7 +14,6 @@ Cool Down: Blower, Timer
 Timer: tracks time
 Blower: on/off
 
-
 Heating Element: on/off
 Moisture Sensor: output signal
 Thermostat: output signal
