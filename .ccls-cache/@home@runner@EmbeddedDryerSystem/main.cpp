@@ -18,7 +18,6 @@ Moisture Sensor: output signal
 Thermostat: output signal
 
 
-
 */
 
 int getNum(){
