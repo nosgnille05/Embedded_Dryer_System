@@ -28,7 +28,6 @@ int getNum(){
 
 
 
-
     
     std::cin >> x; 
   }
