@@ -25,7 +25,6 @@ int getNum(){
   
   while (x < 10){
     std::cout << "Invalid entry! Try again: ";
-
     std::cin >> x; 
   }
   std::cout << "Success! Your number is: " << x;
