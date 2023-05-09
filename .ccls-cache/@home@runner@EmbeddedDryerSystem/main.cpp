@@ -27,8 +27,7 @@ int getNum(){
     std::cout << "Invalid entry! Try again: ";
 
 
-
-    
+ 
     std::cin >> x; 
   }
   std::cout << "Success! Your number is: " << x;
