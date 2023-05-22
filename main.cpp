@@ -20,7 +20,6 @@ Thermostat: output signal
 
 
 
-
 */
 
 int getNum(){
