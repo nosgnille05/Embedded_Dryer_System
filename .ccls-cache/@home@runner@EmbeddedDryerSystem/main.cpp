@@ -9,8 +9,6 @@ Auto Dry (Reg.): Blower, Timer, Heating Element, Thermostat, Moisture Sensor
 Auto Dry (Press Care): Blower, Timer, Heating Element, Thermostat, Moisture Sensor 
 Timed Dry: Blower, Timer, Heating Element
 
-
-
 Cool Down: Blower, Timer
 
 **CYCLE COMPONENTS**
